@@ -1,11 +1,10 @@
 # vimrc
 my .vimrc settings
 
-# Get started
+# Getting started
 
 ```
-$ mkdir ~/vimrc
-$ cd vimrc
+$ cd ~
 $ git clone https://github.com/massa423/vimrc.git
 $ ln -s vimrc/.vimrc ~/.vimrc
 ```
